@@ -18,7 +18,7 @@
          include ('Template/_special-price.php');
     /*  include special price section  */
 
-   
+    /*  include banner ads  */
         include ('Template/_banner-ads.php');
     /*  include banner ads  */
 
